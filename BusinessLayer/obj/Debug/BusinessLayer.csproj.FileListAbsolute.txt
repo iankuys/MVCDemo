@@ -1,0 +1,6 @@
+C:\Users\yisien\source\repos\MVCDemo\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\yisien\source\repos\MVCDemo\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\yisien\source\repos\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\yisien\source\repos\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\yisien\source\repos\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\yisien\source\repos\MVCDemo\BusinessLayer\obj\Debug\BusinessLayer.pdb
